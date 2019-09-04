@@ -4,7 +4,7 @@ public class ScannerTest {
     public static void main(String[] args) {
         String firstInitial;
         String lastName;
-        Integer houseNumber;
+        int houseNumber;
         String streetName;
         String streetType;
         String city;
